@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahul Havalad</h1>
-<h3 align="center">A passionate researcher, full-stack developer, ML Developer, Android Engineer and security enthusiast</h3>
+<h3 align="center">A passionate researcher, full-stack developer, ML Developer, android Engineer and security enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rahulhavalad&label=Profile%20views&color=0e75b6&style=flat" alt="rahulhavalad" />
@@ -10,10 +10,6 @@
 ### 🚀 About Me
 
 - 🧠 I'm currently focused on **Machine Learning**, **Computer Vision**, **Security Operations**, and **Android Development**.
-- 🌾 Built an end-to-end **Cereal Crop Disease Detection System** using:
-  - 📱 Android (Kotlin + CameraX)
-  - 🧠 MobileNetV2 + TensorFlow Lite (int8 quantized)
-  - 🔍 Real-time heatmap overlay and confidence scores
 - 🛡️ Passionate about **SOC design**, **MITRE ATT&CK**, and **Threat Intelligence** for modern cybersecurity challenges.
 - 🧪 Explored **Transformers**, **Vision Transformers**, and **Variational Autoencoders** in deep learning projects.
 - 🌐 Comfortable with **Microservices**, **Docker**, **Prometheus/Grafana Monitoring**, and **Cloud Automation with Ansible**.
@@ -52,7 +48,7 @@
 
 - 🔗 LinkedIn: [linkedin.com/in/rahulhavalad](https://linkedin.com/in/rahulhavalad)
 - 💼 Portfolio: *Coming soon*
-- 📧 Email: *[YourEmailHere]*
+- 📧 Email: *havaladrahul@gmail.com*
 
 ---
 
